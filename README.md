@@ -5,7 +5,7 @@
 🏛️ Dankook univ / 💻 Computer Engineering<p>
 
 🙌 Hi! I am working as an information security expert.
-Sometimes I like to write automation scripts! Because I hate being bothered.
+<br>Sometimes I like to write automation scripts! Because I hate being bothered.
 
 I like climbing and I like to play games.🧗‍♂️🎮
 <br>I want to study more deeply in the field of information security!
