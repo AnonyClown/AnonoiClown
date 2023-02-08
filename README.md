@@ -2,8 +2,6 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:skyt1236@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skyt1258@gmail.com)](mailto:skyt1258@gmail.com)<p>
   
-🏛️ Dankook univ / 💻 Computer Engineering<p>
-
 🙌 Hi! I am working as an information security expert.
 <br>Sometimes I like to write automation scripts! Because I hate being bothered.
 
